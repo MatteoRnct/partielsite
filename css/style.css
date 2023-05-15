@@ -1,0 +1,37 @@
+.card {
+    color: white;
+    padding-top: 1%;
+    text-align: center;
+}
+.row {
+  justify-content: space-evenly;
+    padding: 5%;
+}
+
+.titleg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 125px;
+;
+}
+.contoureg {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.contourec {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.citation{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.footer{
+    padding: 2%;
+}
